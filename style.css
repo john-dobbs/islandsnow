@@ -8,3 +8,12 @@
   box-shadow: none !important;
   border: none !important;
 }
+
+.footer-container {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  border-top: solid #e5e5e5 1px !important;
+  border-bottom: solid #e5e5e5 1px !important;
+}
